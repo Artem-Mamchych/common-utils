@@ -1,4 +1,4 @@
 common-utils
 ============
 
-My set of Python common utils
+Set of my python libraries and file templates
